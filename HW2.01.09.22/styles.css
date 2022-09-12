@@ -1,0 +1,85 @@
+.Header{
+text-align: center;
+color: black;
+}
+* {
+    background-color: bisque;
+}
+
+.cities{
+font-size: 1.2;
+}
+
+.hr{
+   margin-top: 50px;
+   border-width: 5px;
+   border-color: gray;
+   border-style: dotted;
+   border-top-style: none;
+   width:20%;
+}
+   .button{
+    margin-left: 1rem;
+    border-radius:15%;
+
+   }
+
+   td{
+    padding: 0 40px;
+   }
+
+   .tr{
+    font-size: 1.3rem;
+    font-weight: 1000;
+    line-height: 2rem;
+   }
+   .tr1{
+      font-weight: 1000;
+      line-height: 2rem;;
+   }
+   .A{
+   padding-left:70px;
+   }
+
+   button{
+      margin: 0 5px;
+   }
+   .pic{
+      width: 40px;
+   }
+    #Math td {
+font-weight:1000;
+font-size: 1.7rem;
+   }
+
+   #Math{
+      margin: auto;
+      width: 80%;
+      height: 700px;
+   }
+
+   .Y{
+      background-color: yellow;
+   }
+
+   .G{
+      background-color: grey;
+   }
+
+   .Hrs{
+   margin:100px auto 50px auto;
+   border-width: 5px;
+   border-color: gray;
+   border-style: dotted;
+   border-top-style:none;
+   width:20%;
+   }
+
+   .math{
+      text-align: center;
+   }
+
+   h1 h2 h3 h4 {
+      font-family: 'Oswald', sans-serif;
+
+   }
